@@ -1,0 +1,68 @@
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\bin\Debug\DurakClassLibrary.dll
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\bin\Debug\DurakClassLibrary.pdb
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\obj\Debug\DurakClassLibrary.Properties.Resources.resources
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\obj\Debug\DurakClassLibrary.csproj.GenerateResource.cache
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\obj\Debug\DurakClassLibrary.csproj.CoreCompileInputs.cache
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\obj\Debug\DurakClassLibrary.dll
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\obj\Debug\DurakClassLibrary.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakClassLibrary\bin\Debug\DurakClassLibrary.dll
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakClassLibrary\bin\Debug\DurakClassLibrary.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakClassLibrary\obj\Debug\DurakClassLibrary.csprojAssemblyReference.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakClassLibrary\obj\Debug\DurakClassLibrary.Properties.Resources.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakClassLibrary\obj\Debug\DurakClassLibrary.csproj.GenerateResource.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakClassLibrary\obj\Debug\DurakClassLibrary.csproj.CoreCompileInputs.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakClassLibrary\obj\Debug\DurakClassLibrary.dll
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakClassLibrary\obj\Debug\DurakClassLibrary.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakClassLibrary\bin\Debug\DurakClassLibrary.dll
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakClassLibrary\bin\Debug\DurakClassLibrary.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakClassLibrary\obj\Debug\DurakClassLibrary.csprojAssemblyReference.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakClassLibrary\obj\Debug\DurakClassLibrary.Properties.Resources.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakClassLibrary\obj\Debug\DurakClassLibrary.csproj.GenerateResource.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakClassLibrary\obj\Debug\DurakClassLibrary.csproj.CoreCompileInputs.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakClassLibrary\obj\Debug\DurakClassLibrary.dll
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakClassLibrary\obj\Debug\DurakClassLibrary.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakClassLibrary\bin\Debug\DurakClassLibrary.dll
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakClassLibrary\bin\Debug\DurakClassLibrary.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakClassLibrary\obj\Debug\DurakClassLibrary.csprojAssemblyReference.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakClassLibrary\obj\Debug\DurakClassLibrary.Properties.Resources.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakClassLibrary\obj\Debug\DurakClassLibrary.csproj.GenerateResource.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakClassLibrary\obj\Debug\DurakClassLibrary.csproj.CoreCompileInputs.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakClassLibrary\obj\Debug\DurakClassLibrary.dll
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakClassLibrary\obj\Debug\DurakClassLibrary.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakClassLibrary\bin\Debug\DurakClassLibrary.dll
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakClassLibrary\bin\Debug\DurakClassLibrary.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakClassLibrary\obj\Debug\DurakClassLibrary.csprojAssemblyReference.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakClassLibrary\obj\Debug\DurakClassLibrary.Properties.Resources.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakClassLibrary\obj\Debug\DurakClassLibrary.csproj.GenerateResource.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakClassLibrary\obj\Debug\DurakClassLibrary.csproj.CoreCompileInputs.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakClassLibrary\obj\Debug\DurakClassLibrary.dll
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakClassLibrary\obj\Debug\DurakClassLibrary.pdb
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakClassLibrary\bin\Debug\DurakClassLibrary.dll
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakClassLibrary\bin\Debug\DurakClassLibrary.pdb
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakClassLibrary\obj\Debug\DurakClassLibrary.csprojAssemblyReference.cache
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakClassLibrary\obj\Debug\DurakClassLibrary.Properties.Resources.resources
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakClassLibrary\obj\Debug\DurakClassLibrary.csproj.GenerateResource.cache
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakClassLibrary\obj\Debug\DurakClassLibrary.dll
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakClassLibrary\obj\Debug\DurakClassLibrary.pdb
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakClassLibrary\bin\Debug\DurakClassLibrary.dll
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakClassLibrary\bin\Debug\DurakClassLibrary.pdb
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakClassLibrary\obj\Debug\DurakClassLibrary.csprojAssemblyReference.cache
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakClassLibrary\obj\Debug\DurakClassLibrary.Properties.Resources.resources
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakClassLibrary\obj\Debug\DurakClassLibrary.csproj.GenerateResource.cache
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakClassLibrary\obj\Debug\DurakClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakClassLibrary\obj\Debug\DurakClassLibrary.dll
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakClassLibrary\obj\Debug\DurakClassLibrary.pdb
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakClassLibrary\bin\Debug\DurakClassLibrary.dll
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakClassLibrary\bin\Debug\DurakClassLibrary.pdb
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakClassLibrary\obj\Debug\DurakClassLibrary.csprojAssemblyReference.cache
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakClassLibrary\obj\Debug\DurakClassLibrary.Properties.Resources.resources
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakClassLibrary\obj\Debug\DurakClassLibrary.csproj.GenerateResource.cache
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakClassLibrary\obj\Debug\DurakClassLibrary.dll
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakClassLibrary\obj\Debug\DurakClassLibrary.pdb
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakClassLibrary\obj\Debug\DurakClassLibrary.csprojAssemblyReference.cache
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakClassLibrary\obj\Debug\DurakClassLibrary.Properties.Resources.resources
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakClassLibrary\obj\Debug\DurakClassLibrary.csproj.GenerateResource.cache
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakClassLibrary\obj\Debug\DurakClassLibrary.dll
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakClassLibrary\obj\Debug\DurakClassLibrary.pdb
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakClassLibrary\bin\Debug\DurakClassLibrary.dll
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakClassLibrary\bin\Debug\DurakClassLibrary.pdb

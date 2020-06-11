@@ -1,0 +1,163 @@
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\DurakUI\bin\Debug\DurakUI.exe.config
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\DurakUI\bin\Debug\DurakUI.exe
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\DurakUI\bin\Debug\DurakUI.pdb
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\DurakUI\bin\Debug\CardBox.dll
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\DurakUI\bin\Debug\DurakClassLibrary.dll
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\DurakUI\bin\Debug\CardBox.pdb
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\DurakUI\bin\Debug\DurakClassLibrary.pdb
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\DurakUI\obj\Debug\DurakUI.csprojAssemblyReference.cache
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\DurakUI\obj\Debug\DurakUI.frmAbout.resources
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\DurakUI\obj\Debug\DurakUI.frmLetsPlayDurak.resources
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\DurakUI\obj\Debug\DurakUI.frmPlayTime.resources
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\DurakUI\obj\Debug\DurakUI.Properties.Resources.resources
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\DurakUI\obj\Debug\DurakUI.csproj.GenerateResource.cache
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\DurakUI\obj\Debug\DurakUI.csproj.CoreCompileInputs.cache
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\DurakUI\obj\Debug\DurakUI.csproj.CopyComplete
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\DurakUI\obj\Debug\DurakUI.exe
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\DurakUI\obj\Debug\DurakUI.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakUI\bin\Debug\DurakUI.exe.config
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakUI\bin\Debug\DurakUI.exe
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakUI\bin\Debug\DurakUI.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakUI\bin\Debug\CardBox.dll
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakUI\bin\Debug\DurakClassLibrary.dll
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakUI\bin\Debug\CardBox.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakUI\bin\Debug\DurakClassLibrary.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakUI\obj\Debug\DurakUI.csprojAssemblyReference.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakUI\obj\Debug\DurakUI.frmAbout.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakUI\obj\Debug\DurakUI.frmLetsPlayDurak.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakUI\obj\Debug\DurakUI.frmPlayTime.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakUI\obj\Debug\DurakUI.Properties.Resources.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakUI\obj\Debug\DurakUI.csproj.GenerateResource.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakUI\obj\Debug\DurakUI.csproj.CoreCompileInputs.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakUI\obj\Debug\DurakUI.csproj.CopyComplete
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakUI\obj\Debug\DurakUI.exe
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\DurakUI\obj\Debug\DurakUI.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakUI\bin\Debug\DurakUI.exe.config
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakUI\bin\Debug\DurakUI.exe
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakUI\bin\Debug\DurakUI.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakUI\bin\Debug\CardBox.dll
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakUI\bin\Debug\DurakClassLibrary.dll
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakUI\bin\Debug\CardBox.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakUI\bin\Debug\DurakClassLibrary.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakUI\obj\Debug\DurakUI.csprojAssemblyReference.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakUI\obj\Debug\DurakUI.frmAbout.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakUI\obj\Debug\DurakUI.frmLetsPlayDurak.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakUI\obj\Debug\DurakUI.frmPlayTime.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakUI\obj\Debug\DurakUI.Properties.Resources.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakUI\obj\Debug\DurakUI.csproj.GenerateResource.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakUI\obj\Debug\DurakUI.csproj.CoreCompileInputs.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakUI\obj\Debug\DurakUI.csproj.CopyComplete
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakUI\obj\Debug\DurakUI.exe
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\DurakUI\obj\Debug\DurakUI.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakUI\bin\Debug\DurakUI.exe.config
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakUI\bin\Debug\DurakUI.exe
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakUI\bin\Debug\DurakUI.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakUI\bin\Debug\CardBox.dll
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakUI\bin\Debug\DurakClassLibrary.dll
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakUI\bin\Debug\CardBox.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakUI\bin\Debug\DurakClassLibrary.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakUI\obj\Debug\DurakUI.csprojAssemblyReference.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakUI\obj\Debug\DurakUI.frmAbout.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakUI\obj\Debug\DurakUI.frmLetsPlayDurak.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakUI\obj\Debug\DurakUI.frmPlayTime.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakUI\obj\Debug\DurakUI.Properties.Resources.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakUI\obj\Debug\DurakUI.csproj.GenerateResource.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakUI\obj\Debug\DurakUI.csproj.CoreCompileInputs.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakUI\obj\Debug\DurakUI.csproj.CopyComplete
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakUI\obj\Debug\DurakUI.exe
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakUI\obj\Debug\DurakUI.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v9\DurakUI\obj\Debug\DurakUI.frmGameSetting.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakUI\bin\Debug\DurakUI.exe.config
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakUI\bin\Debug\DurakUI.exe
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakUI\bin\Debug\DurakUI.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakUI\bin\Debug\CardBox.dll
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakUI\bin\Debug\DurakClassLibrary.dll
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakUI\bin\Debug\CardBox.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakUI\bin\Debug\DurakClassLibrary.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakUI\obj\Debug\DurakUI.csprojAssemblyReference.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakUI\obj\Debug\DurakUI.frmAbout.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakUI\obj\Debug\DurakUI.frmGameSetting.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakUI\obj\Debug\DurakUI.frmLetsPlayDurak.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakUI\obj\Debug\DurakUI.frmPlayTime.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakUI\obj\Debug\DurakUI.Properties.Resources.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakUI\obj\Debug\DurakUI.csproj.GenerateResource.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakUI\obj\Debug\DurakUI.csproj.CoreCompileInputs.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakUI\obj\Debug\DurakUI.csproj.CopyComplete
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakUI\obj\Debug\DurakUI.exe
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v10\DurakUI\obj\Debug\DurakUI.pdb
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakUI\obj\Debug\DurakUI.csprojAssemblyReference.cache
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakUI\obj\Debug\DurakUI.exe
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakUI\obj\Debug\DurakUI.pdb
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakUI\bin\Debug\DurakUI.exe.config
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakUI\bin\Debug\DurakUI.exe
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakUI\bin\Debug\DurakUI.pdb
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakUI\bin\Debug\CardBox.dll
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakUI\bin\Debug\DurakClassLibrary.dll
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakUI\bin\Debug\CardBox.pdb
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakUI\bin\Debug\DurakClassLibrary.pdb
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakUI\obj\Debug\DurakUI.frmAbout.resources
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakUI\obj\Debug\DurakUI.frmGameSetting.resources
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakUI\obj\Debug\DurakUI.frmLetsPlayDurak.resources
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakUI\obj\Debug\DurakUI.frmPlayTime.resources
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakUI\obj\Debug\DurakUI.Properties.Resources.resources
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakUI\obj\Debug\DurakUI.csproj.GenerateResource.cache
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakUI\obj\Debug\DurakUI.csproj.CopyComplete
+C:\Users\darsh\Downloads\DurakCardGame-master\DurakCardGame-master\DurakClassLibrary.v10\DurakUI\obj\Debug\DurakUI.MyForm.resources
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakUI\bin\Debug\DurakUI.exe.config
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakUI\bin\Debug\DurakUI.exe
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakUI\bin\Debug\DurakUI.pdb
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakUI\bin\Debug\CardBox.dll
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakUI\bin\Debug\DurakClassLibrary.dll
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakUI\bin\Debug\CardBox.pdb
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakUI\bin\Debug\DurakClassLibrary.pdb
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakUI\obj\Debug\DurakUI.csprojAssemblyReference.cache
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakUI\obj\Debug\DurakUI.frmAbout.resources
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakUI\obj\Debug\DurakUI.frmGameSetting.resources
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakUI\obj\Debug\DurakUI.frmLetsPlayDurak.resources
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakUI\obj\Debug\DurakUI.MyForm.resources
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakUI\obj\Debug\DurakUI.frmPlayTime.resources
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakUI\obj\Debug\DurakUI.Properties.Resources.resources
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakUI\obj\Debug\DurakUI.csproj.GenerateResource.cache
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakUI\obj\Debug\DurakUI.csproj.CoreCompileInputs.cache
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakUI\obj\Debug\DurakUI.csproj.CopyComplete
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakUI\obj\Debug\DurakUI.exe
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakUI\obj\Debug\DurakUI.pdb
+C:\Users\jaymc\Documents\winter2020\OOP\Final Project\Durak\DurakUI\obj\Debug\DurakUI.frmUserGuide.resources
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakUI\bin\Debug\DurakUI.exe.config
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakUI\bin\Debug\DurakUI.exe
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakUI\bin\Debug\DurakUI.pdb
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakUI\bin\Debug\CardBox.dll
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakUI\bin\Debug\DurakClassLibrary.dll
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakUI\bin\Debug\CardBox.pdb
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakUI\bin\Debug\DurakClassLibrary.pdb
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakUI\obj\Debug\DurakUI.csprojAssemblyReference.cache
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakUI\obj\Debug\DurakUI.frmAbout.resources
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakUI\obj\Debug\DurakUI.frmGameSetting.resources
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakUI\obj\Debug\DurakUI.frmLetsPlayDurak.resources
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakUI\obj\Debug\DurakUI.MyForm.resources
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakUI\obj\Debug\DurakUI.frmPlayTime.resources
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakUI\obj\Debug\DurakUI.Properties.Resources.resources
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakUI\obj\Debug\DurakUI.frmUserGuide.resources
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakUI\obj\Debug\DurakUI.csproj.GenerateResource.cache
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakUI\obj\Debug\DurakUI.csproj.CopyComplete
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakUI\obj\Debug\DurakUI.exe
+C:\Users\phill\Desktop\Durak with deckSize\Durak\DurakUI\obj\Debug\DurakUI.pdb
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakUI\bin\Debug\DurakUI.exe.config
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakUI\bin\Debug\DurakUI.exe
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakUI\bin\Debug\DurakUI.pdb
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakUI\bin\Debug\CardBox.dll
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakUI\bin\Debug\DurakClassLibrary.dll
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakUI\bin\Debug\CardBox.pdb
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakUI\bin\Debug\DurakClassLibrary.pdb
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakUI\obj\Debug\DurakUI.csprojAssemblyReference.cache
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakUI\obj\Debug\DurakUI.frmAbout.resources
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakUI\obj\Debug\DurakUI.frmGameSetting.resources
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakUI\obj\Debug\DurakUI.frmLetsPlayDurak.resources
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakUI\obj\Debug\DurakUI.MyForm.resources
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakUI\obj\Debug\DurakUI.frmPlayTime.resources
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakUI\obj\Debug\DurakUI.Properties.Resources.resources
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakUI\obj\Debug\DurakUI.frmUserGuide.resources
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakUI\obj\Debug\DurakUI.csproj.GenerateResource.cache
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakUI\obj\Debug\DurakUI.csproj.CopyComplete
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakUI\obj\Debug\DurakUI.exe
+C:\Users\darsh\Downloads\DURAK most updated\Durak with deckSize\Durak\DurakUI\obj\Debug\DurakUI.pdb

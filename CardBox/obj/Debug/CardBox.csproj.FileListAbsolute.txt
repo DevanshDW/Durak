@@ -1,0 +1,36 @@
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\CardBox\bin\Debug\CardBox.dll
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\CardBox\bin\Debug\CardBox.pdb
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\CardBox\bin\Debug\DurakClassLibrary.dll
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\CardBox\bin\Debug\DurakClassLibrary.pdb
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\CardBox\obj\Debug\CardBox.csprojAssemblyReference.cache
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\CardBox\obj\Debug\CardBox.CardBox.resources
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\CardBox\obj\Debug\CardBox.Properties.Resources.resources
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\CardBox\obj\Debug\CardBox.csproj.GenerateResource.cache
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\CardBox\obj\Debug\CardBox.csproj.CoreCompileInputs.cache
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\CardBox\obj\Debug\CardBox.csproj.CopyComplete
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\CardBox\obj\Debug\CardBox.dll
+D:\OneDrive\D C\zSemester 4\OOP III\Durak Ideas\DurakClassLibrary\DurakClassLibrary\CardBox\obj\Debug\CardBox.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\CardBox\bin\Debug\CardBox.dll
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\CardBox\bin\Debug\CardBox.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\CardBox\bin\Debug\DurakClassLibrary.dll
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\CardBox\bin\Debug\DurakClassLibrary.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\CardBox\obj\Debug\CardBox.csprojAssemblyReference.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\CardBox\obj\Debug\CardBox.CardBox.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\CardBox\obj\Debug\CardBox.Properties.Resources.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\CardBox\obj\Debug\CardBox.csproj.GenerateResource.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\CardBox\obj\Debug\CardBox.csproj.CoreCompileInputs.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\CardBox\obj\Debug\CardBox.csproj.CopyComplete
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\CardBox\obj\Debug\CardBox.dll
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v7\CardBox\obj\Debug\CardBox.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\CardBox\bin\Debug\CardBox.dll
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\CardBox\bin\Debug\CardBox.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\CardBox\bin\Debug\DurakClassLibrary.dll
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\CardBox\bin\Debug\DurakClassLibrary.pdb
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\CardBox\obj\Debug\CardBox.csprojAssemblyReference.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\CardBox\obj\Debug\CardBox.CardBox.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\CardBox\obj\Debug\CardBox.Properties.Resources.resources
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\CardBox\obj\Debug\CardBox.csproj.GenerateResource.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\CardBox\obj\Debug\CardBox.csproj.CoreCompileInputs.cache
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\CardBox\obj\Debug\CardBox.csproj.CopyComplete
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\CardBox\obj\Debug\CardBox.dll
+D:\Durham_College\OOP\FinalProject\DurakClassLibrary.v8\CardBox\obj\Debug\CardBox.pdb
